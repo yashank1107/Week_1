@@ -30,7 +30,12 @@ This project contains code and notebooks for analyzing and modeling the Bank Mar
 
 See `requirements.txt` for all dependencies.
 
+## Testing Data
+
+You can use test_book.xlsx to test in streamlit app (app.py)
+
 ## Notes
 
 - Make sure you have Python 3.8+ installed.
+
 - The notebook and app use pre-trained models saved as `.pkl` files.
